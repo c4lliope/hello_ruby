@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    assemble_app (>= 0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  assemble_app
+
+RUBY VERSION
+   ruby 2.4.0p0
